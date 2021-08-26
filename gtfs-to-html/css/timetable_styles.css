@@ -258,6 +258,7 @@ a:hover {
   display: block;
   text-decoration: none;
   padding: 5px;
+  width: 370px;
 }
 
 .overview-menu-item:hover {

@@ -1,0 +1,42 @@
+Feed Version: Version 2020.9.6.1 - Du 09/06/2021 au 04/07/2021
+GTFS-to-HTML Version: 2.1.5
+Date Generated: Tue Aug 24 2021 20:20:37 GMT+0200 (heure d’été d’Europe centrale)
+Timetable Page Count: 1036
+Timetable Count: 1036
+Calendar Service ID Count: 3416
+Route Count: 1036
+Trip Count: 69820
+Stop Count: 36432
+Source: https://ppicoult.github.io/depot_data/gtfs_apres.zip
+
+Warnings:
+No timetables found for timetable_page_id=0041|0000010|0
+No timetables found for timetable_page_id=0041|0000010|0
+No timetables found for timetable_page_id=0041|0000001|0
+No timetables found for timetable_page_id=0041|0000001|0
+No timetables found for timetable_page_id=0041|0000010|0
+No timetables found for timetable_page_id=0041|0000001|0
+No timetables found for timetable_page_id=0041|0000010|1
+No timetables found for timetable_page_id=0041|0000010|1
+No timetables found for timetable_page_id=0041|0000001|1
+No timetables found for timetable_page_id=0041|0000001|1
+No timetables found for timetable_page_id=0041|0000010|1
+No timetables found for timetable_page_id=0041|0000001|1
+No timetables found for timetable_page_id=0032|0000010|0
+No timetables found for timetable_page_id=0032|0000010|0
+No timetables found for timetable_page_id=0032|0000001|0
+No timetables found for timetable_page_id=0032|0000001|0
+No timetables found for timetable_page_id=0032|0000010|0
+No timetables found for timetable_page_id=0032|0000001|0
+No timetables found for timetable_page_id=0032|0000010|1
+No timetables found for timetable_page_id=0032|0000010|1
+No timetables found for timetable_page_id=0032|0000001|1
+No timetables found for timetable_page_id=0032|0000001|1
+No timetables found for timetable_page_id=0032|0000010|1
+No timetables found for timetable_page_id=0032|0000001|1
+No timetables found for timetable_page_id=0013|0000001|0
+No timetables found for timetable_page_id=0013|0000001|0
+No timetables found for timetable_page_id=0013|0000001|0
+No timetables found for timetable_page_id=0013|0000001|1
+No timetables found for timetable_page_id=0013|0000001|1
+No timetables found for timetable_page_id=0013|0000001|1
