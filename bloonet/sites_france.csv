@@ -1,4 +1,4 @@
-Site_name,Transmitter Easting,Transmitter northing,Transmitter height,abs_pop,abs_area
+Name,Easting,Northing,Height,Population,Area
 29040_002,73147.35,2396675.07,22.65,1923,140.0825
 29221_003,76725.18,2413010.96,27,1898,83.015
 29190_001,77347.85,2395892.37,27,3105,43.1925
